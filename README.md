@@ -2,17 +2,14 @@
 
 ## Introduction: 
 
-This is just a small project that I started back in December 2017. I was in a period where I was
-learning to develope Android Application. The whole Application is written in Java. 
-I soon started working on this little project after learning the basics of Android development.
-This is a simple Rock, Paper, Scissor game, with a easy user interface that is fairly easy to use 
-by anyone. 
+This is just a small project that I started wokring on back in December 2017. I was in a period where I was
+learning how to develope Android Applications. I soon started working on this little project of mine, after learning the basics of Android development. This is a simple Rock, Paper, Scissor game, with a easy user interface that is fairly easy to use by anyone. The whole application is written in Java. 
 
 ## How does it work? 
 
 The game is pretty simple and straight forward. You are playing against 
 the computer where the computer choses Rock, Paper or Scissors at random. 
-While this is happening the user has also the same option. The result will then be presented
+While this is happening the user has also the same options. The result will then be presented
 and either one of the players will get a point for each time they win. 
 The game ends after one of the players have reached 3 wins/points. You will also have the option
 of playing multiple rounds against the Computer! 
