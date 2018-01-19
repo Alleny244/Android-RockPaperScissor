@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#363131</color>
+    <color name="colorPrimaryDark">#18191d</color>
+    <color name="colorAccent">#02d10047</color>
+    <color name="linearcol">#6f223c</color>
+    <color name="appbackground">#2e2c2c</color>
+    <color name="test">#fb250510</color>
+    <color name="testcolor">#2b2829</color>
+    <color name="backcolor">#2c2829</color>
+    <color name="highlight_color_filter">#9dff0000</color>
+    <color name="ButtonColor">#a50b1d</color>
+</resources>
