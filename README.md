@@ -22,4 +22,4 @@ of playing multiple rounds against the Computer!
 ![screen shot 2018-01-19 at 10 22 47 pm](https://user-images.githubusercontent.com/11196323/35172303-5e4940b0-fd67-11e7-8bb7-a867aa1d4ba6.png) .  ![screen shot 2018-01-19 at 10 24 22 pm](https://user-images.githubusercontent.com/11196323/35172383-bdb1dc88-fd67-11e7-8993-6ef120178ea5.png)
 
 
-Khalid B. Said 
+*Khalid B. Said*
