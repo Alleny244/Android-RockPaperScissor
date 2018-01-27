@@ -2,7 +2,7 @@
 
 ## Introduction: 
 
-This is just a small project that I started wokring on back in December 2017. I was in a period where I was
+This is just a small project that I started working on back in December 2017. I was in a period where I was
 learning how to develope Android Applications. I soon started working on this little project of mine, after learning the basics of Android development. This is a simple Rock, Paper, Scissor game, with a easy user interface that is fairly easy to use by anyone. The whole application is written in Java. 
 
 ## How does it work? 
